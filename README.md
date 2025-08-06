@@ -1,6 +1,6 @@
 # ASE final exam
 
-## Requirements
+## Exam Assignment
 [20240904_ARM.docx](20240904_ARM.docx)
 
 ## How to run
